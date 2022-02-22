@@ -4,8 +4,8 @@
 class Socios < Formula
   desc "development formula - Socios"
   homepage "https://github.com/Bsivakumar29/socios"
-  url "https://github.com/Bsivakumar29/socios/archive/refs/tags/v1.1.0.tar.gz"
-  sha256 "f48bcdaf158f9b0a997c3084d24449614cf94188ed1ae9807adea0ad7ef65fdb"
+  url "https://github.com/Bsivakumar29/socios/archive/refs/tags/v1.1.2.tar.gz"
+  sha256 "d982d7a95680bac90a07cddff839c9a23dc5cce4a88279964310c4f1f022eb04"
   license ""
 
   def install
